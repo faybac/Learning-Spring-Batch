@@ -1,6 +1,6 @@
 ## Example files for the title:  
   
-# Learning Spring Batch, by Michael Minella
+# Learning Spring Batch
   
 [![Learning Spring Batch)
   
