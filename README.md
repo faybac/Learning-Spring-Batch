@@ -2,7 +2,7 @@
   
 # Learning Spring Batch, by Michael Minella
   
-[![Learning Spring Batch, by Michael Minella](http://akamaicovers.oreilly.com/images/9781771375146/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781771375146//)
+[![Learning Spring Batch)
   
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
   
